@@ -1,6 +1,8 @@
 # RoBat
 Design and Robotics course AY 21/22
 5 Team Members (three computer science engineers and two designers) project
+
+Demo video here -> https://www.instagram.com/reel/CfEaHMZKv9c/
  
 ### Platform
 - Raspberry Pi 3B
